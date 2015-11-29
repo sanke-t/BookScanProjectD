@@ -1,0 +1,2 @@
+include ':app', ':volley'
+include ':app:libraries:zxing-android-embedded-master'
